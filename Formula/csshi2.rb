@@ -6,8 +6,7 @@ require "formula"
 
 class Csshi2 < Formula
   homepage "https://github.com/untoldwind/csshi2"
-  url "https://github.com/untoldwind/csshi2/archive/0.3.tar.gz"
-  sha1 "fafc09dfd4ba0a8e1960598fa7c13922871a92ff"
+  url "https://github.com/untoldwind/csshi2/archive/0.4.tar.gz"
 
   head "https://github.com/untoldwind/csshi2.git"
 
